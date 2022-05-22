@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/e-hovli/static/css/main.f9beb01a.css",
+    "main.js": "/e-hovli/static/js/main.bc64e3eb.js",
+    "static/media/header_banner.jpg": "/e-hovli/static/media/header_banner.3d8587be1b630941fb22.jpg",
+    "static/media/roboto-v30-latin-500.woff": "/e-hovli/static/media/roboto-v30-latin-500.48af7707fe9e6494d6a5.woff",
+    "static/media/roboto-v30-latin-100.woff": "/e-hovli/static/media/roboto-v30-latin-100.68bb21d0e01219b9771f.woff",
+    "static/media/roboto-v30-latin-900.woff": "/e-hovli/static/media/roboto-v30-latin-900.f5677eb229af2e6c8fe1.woff",
+    "static/media/roboto-v30-latin-300.woff": "/e-hovli/static/media/roboto-v30-latin-300.c2f7ab22cb9cbd074c3a.woff",
+    "static/media/roboto-v30-latin-700.woff": "/e-hovli/static/media/roboto-v30-latin-700.77ecb942e56f9b036426.woff",
+    "static/media/roboto-v30-latin-regular.woff": "/e-hovli/static/media/roboto-v30-latin-regular.f1e2a76794cb86b2aa8e.woff",
+    "static/media/roboto-v30-latin-500.woff2": "/e-hovli/static/media/roboto-v30-latin-500.f25d774ecfe0996f8eb5.woff2",
+    "static/media/roboto-v30-latin-700.woff2": "/e-hovli/static/media/roboto-v30-latin-700.227c93190fe7f82de3f8.woff2",
+    "static/media/roboto-v30-latin-100.woff2": "/e-hovli/static/media/roboto-v30-latin-100.30fb0679553d179c3343.woff2",
+    "static/media/roboto-v30-latin-900.woff2": "/e-hovli/static/media/roboto-v30-latin-900.2e8becfcae330421664b.woff2",
+    "static/media/roboto-v30-latin-regular.woff2": "/e-hovli/static/media/roboto-v30-latin-regular.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-v30-latin-300.woff2": "/e-hovli/static/media/roboto-v30-latin-300.c48fb6765a9fcb00b330.woff2",
+    "static/media/logo.svg": "/e-hovli/static/media/logo.01b4a04310ec4039105f173af6fcaeca.svg",
+    "static/media/currency.svg": "/e-hovli/static/media/currency.57117aac84d30ad5b8b25b785dd87534.svg",
+    "static/media/notification.svg": "/e-hovli/static/media/notification.2c0688d4a7cb8e7f8ac720963fa71b87.svg",
+    "static/media/search-icon.svg": "/e-hovli/static/media/search-icon.3ea77905bb5d65488046c0e76d009486.svg",
+    "static/media/location.svg": "/e-hovli/static/media/location.87ced8beaef6b3317b3264f902567646.svg",
+    "index.html": "/e-hovli/index.html",
+    "static/media/love.svg": "/e-hovli/static/media/love.31dd23ed41f5713e8f8d5242ad5ebe40.svg",
+    "main.f9beb01a.css.map": "/e-hovli/static/css/main.f9beb01a.css.map",
+    "main.bc64e3eb.js.map": "/e-hovli/static/js/main.bc64e3eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9beb01a.css",
+    "static/js/main.bc64e3eb.js"
+  ]
+}
