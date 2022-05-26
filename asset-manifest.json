@@ -1,8 +1,15 @@
 {
   "files": {
-    "main.css": "/e-hovli/static/css/main.f9beb01a.css",
-    "main.js": "/e-hovli/static/js/main.bc64e3eb.js",
+    "main.css": "/e-hovli/static/css/main.d0b24269.css",
+    "main.js": "/e-hovli/static/js/main.b1bb45f2.js",
     "static/media/header_banner.jpg": "/e-hovli/static/media/header_banner.3d8587be1b630941fb22.jpg",
+    "static/media/footer-bg.jpg": "/e-hovli/static/media/footer-bg.383838fc59e50bb7a5d6.jpg",
+    "static/media/card_img5.jpg": "/e-hovli/static/media/card_img5.de2221b9337cbe2e01f3.jpg",
+    "static/media/card_img3.jpg": "/e-hovli/static/media/card_img3.55429ab6b44a12a8a73e.jpg",
+    "static/media/card_img1.jpg": "/e-hovli/static/media/card_img1.3ce698289d7fe65704bc.jpg",
+    "static/media/card_img2.jpg": "/e-hovli/static/media/card_img2.e3d096c0277d56df8b2a.jpg",
+    "static/media/card_img4.jpg": "/e-hovli/static/media/card_img4.574979e2c022ec1c29ea.jpg",
+    "static/media/card_img6.jpg": "/e-hovli/static/media/card_img6.e82d01edfbe24e56cce0.jpg",
     "static/media/roboto-v30-latin-500.woff": "/e-hovli/static/media/roboto-v30-latin-500.48af7707fe9e6494d6a5.woff",
     "static/media/roboto-v30-latin-100.woff": "/e-hovli/static/media/roboto-v30-latin-100.68bb21d0e01219b9771f.woff",
     "static/media/roboto-v30-latin-900.woff": "/e-hovli/static/media/roboto-v30-latin-900.f5677eb229af2e6c8fe1.woff",
@@ -15,18 +22,31 @@
     "static/media/roboto-v30-latin-900.woff2": "/e-hovli/static/media/roboto-v30-latin-900.2e8becfcae330421664b.woff2",
     "static/media/roboto-v30-latin-regular.woff2": "/e-hovli/static/media/roboto-v30-latin-regular.b009a76ad6afe4ebd301.woff2",
     "static/media/roboto-v30-latin-300.woff2": "/e-hovli/static/media/roboto-v30-latin-300.c48fb6765a9fcb00b330.woff2",
+    "static/media/google.svg": "/e-hovli/static/media/google.19ca9cba556371818d0b0f84086687d1.svg",
     "static/media/logo.svg": "/e-hovli/static/media/logo.01b4a04310ec4039105f173af6fcaeca.svg",
+    "static/media/categories4.svg": "/e-hovli/static/media/categories4.45570b67e18b26cf0a17afd2582672a3.svg",
+    "static/media/call.svg": "/e-hovli/static/media/call.8e31273a047295c27ed7f6b814ee2892.svg",
+    "static/media/categories1.svg": "/e-hovli/static/media/categories1.2dd32ac8554772e56486164516793aab.svg",
     "static/media/currency.svg": "/e-hovli/static/media/currency.57117aac84d30ad5b8b25b785dd87534.svg",
+    "static/media/logo_authorization.svg": "/e-hovli/static/media/logo_authorization.be058c5529c553bd0bcf497a7ea81ead.svg",
+    "static/media/LogoImg.svg": "/e-hovli/static/media/LogoImg.a7eeb12fef7062f3ffef0de43fa3e0ad.svg",
+    "static/media/categories2.svg": "/e-hovli/static/media/categories2.fad02ab6a7d112710291070737119c9e.svg",
+    "static/media/categories3.svg": "/e-hovli/static/media/categories3.f12d32b89faae8dfe7dacba4945dc7de.svg",
+    "static/media/homeIcon.svg": "/e-hovli/static/media/homeIcon.e5caa13eaab8928ffd84b299879c77b4.svg",
     "static/media/notification.svg": "/e-hovli/static/media/notification.2c0688d4a7cb8e7f8ac720963fa71b87.svg",
-    "static/media/search-icon.svg": "/e-hovli/static/media/search-icon.3ea77905bb5d65488046c0e76d009486.svg",
+    "static/media/close.svg": "/e-hovli/static/media/close.e4a7626ebf1924ff33e1.svg",
+    "static/media/arrow-right.svg": "/e-hovli/static/media/arrow-right.446aae6eccd7af8f3b21f0b9347e705c.svg",
+    "static/media/search-icon.svg": "/e-hovli/static/media/search-icon.1845fefc235f76616231773e7a2be317.svg",
     "static/media/location.svg": "/e-hovli/static/media/location.87ced8beaef6b3317b3264f902567646.svg",
     "index.html": "/e-hovli/index.html",
     "static/media/love.svg": "/e-hovli/static/media/love.31dd23ed41f5713e8f8d5242ad5ebe40.svg",
-    "main.f9beb01a.css.map": "/e-hovli/static/css/main.f9beb01a.css.map",
-    "main.bc64e3eb.js.map": "/e-hovli/static/js/main.bc64e3eb.js.map"
+    "static/media/message.svg": "/e-hovli/static/media/message.75324968de43fe4a171ba8b8af5e03cc.svg",
+    "static/media/plus.svg": "/e-hovli/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
+    "main.d0b24269.css.map": "/e-hovli/static/css/main.d0b24269.css.map",
+    "main.b1bb45f2.js.map": "/e-hovli/static/js/main.b1bb45f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9beb01a.css",
-    "static/js/main.bc64e3eb.js"
+    "static/css/main.d0b24269.css",
+    "static/js/main.b1bb45f2.js"
   ]
 }
