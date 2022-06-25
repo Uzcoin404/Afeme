@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Afeme/static/css/main.466dff14.css",
-    "main.js": "/Afeme/static/js/main.8cfe50db.js",
+    "main.css": "/Afeme/static/css/main.184a7f74.css",
+    "main.js": "/Afeme/static/js/main.a9ed18a6.js",
     "static/media/home-hero-3.jpg": "/Afeme/static/media/home-hero-3.ed5dad227e7c5d5d1a7b.jpg",
     "static/media/home-hero-6.jpg": "/Afeme/static/media/home-hero-6.6bea6ccf3545a9bb4498.jpg",
     "static/media/home-hero-1.jpg": "/Afeme/static/media/home-hero-1.d5362acad18c6308da3e.jpg",
@@ -56,6 +56,7 @@
     "static/media/call.svg": "/Afeme/static/media/call.8e31273a047295c27ed7f6b814ee2892.svg",
     "static/media/uz.svg": "/Afeme/static/media/uz.ba574a5b4c4b15dc03f07ac5731d37dd.svg",
     "static/media/categories1.svg": "/Afeme/static/media/categories1.2dd32ac8554772e56486164516793aab.svg",
+    "static/media/placemark-brand.svg": "/Afeme/static/media/placemark-brand.3a9a7f94bd76045759a91ecaab6a4805.svg",
     "static/media/logo_authorization.svg": "/Afeme/static/media/logo_authorization.be058c5529c553bd0bcf497a7ea81ead.svg",
     "static/media/afeme-logo.svg": "/Afeme/static/media/afeme-logo.842acccbc2ec441871b5ec4afec399b0.svg",
     "static/media/e-commerce.svg": "/Afeme/static/media/e-commerce.8011f4c9d664b3cc89c8e9b882b17546.svg",
@@ -86,11 +87,11 @@
     "static/media/ptich.svg": "/Afeme/static/media/ptich.ad91d711b0b23ddf61f6.svg",
     "static/media/edit.svg": "/Afeme/static/media/edit.26879aca63830a1e33ca21a1e8b1fffb.svg",
     "static/media/plus.svg": "/Afeme/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
-    "main.466dff14.css.map": "/Afeme/static/css/main.466dff14.css.map",
-    "main.8cfe50db.js.map": "/Afeme/static/js/main.8cfe50db.js.map"
+    "main.184a7f74.css.map": "/Afeme/static/css/main.184a7f74.css.map",
+    "main.a9ed18a6.js.map": "/Afeme/static/js/main.a9ed18a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.466dff14.css",
-    "static/js/main.8cfe50db.js"
+    "static/css/main.184a7f74.css",
+    "static/js/main.a9ed18a6.js"
   ]
 }
