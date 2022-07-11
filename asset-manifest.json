@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Afeme/static/css/main.d3e26b4e.css",
-    "main.js": "/Afeme/static/js/main.104bd0c8.js",
+    "main.css": "/Afeme/static/css/main.465849c3.css",
+    "main.js": "/Afeme/static/js/main.951da0e9.js",
+    "static/media/hero-img.png": "/Afeme/static/media/hero-img.e689f9a962940361d525.png",
     "static/media/home-hero-3.jpg": "/Afeme/static/media/home-hero-3.ed5dad227e7c5d5d1a7b.jpg",
     "static/media/home-hero-6.jpg": "/Afeme/static/media/home-hero-6.6bea6ccf3545a9bb4498.jpg",
     "static/media/home-hero-1.jpg": "/Afeme/static/media/home-hero-1.d5362acad18c6308da3e.jpg",
@@ -39,10 +40,10 @@
     "static/media/google.svg": "/Afeme/static/media/google.19ca9cba556371818d0b0f84086687d1.svg",
     "static/media/ilust-3.svg": "/Afeme/static/media/ilust-3.db4df8c9087f681c4e9d7db2bc47f78e.svg",
     "static/media/logo.svg": "/Afeme/static/media/logo.01b4a04310ec4039105f173af6fcaeca.svg",
-    "static/media/userIlutration.svg": "/Afeme/static/media/userIlutration.5f2e0328e5c656c1001bb729e98420e0.svg",
     "static/media/en.svg": "/Afeme/static/media/en.e5ccd89653beac195e25f4df8fc1d254.svg",
     "static/media/carzinka.svg": "/Afeme/static/media/carzinka.4a059960dd953a5f8b79af7ea84ba422.svg",
     "static/media/noMessages.svg": "/Afeme/static/media/noMessages.83764de10d91a67979e2de021474f3ab.svg",
+    "static/media/not-found.svg": "/Afeme/static/media/not-found.209484377cf83200e6284d67f3c9962d.svg",
     "static/media/Connectivity.svg": "/Afeme/static/media/Connectivity.eed7934f125a0943342712db2c82ab19.svg",
     "static/media/callicon.svg": "/Afeme/static/media/callicon.9e8945ae64235a0230bc.svg",
     "static/media/categories4.svg": "/Afeme/static/media/categories4.45570b67e18b26cf0a17afd2582672a3.svg",
@@ -79,11 +80,11 @@
     "static/media/arrow-down.svg": "/Afeme/static/media/arrow-down.d687603a0bd3f6f2c7c2c7c148e015c8.svg",
     "static/media/ptich.svg": "/Afeme/static/media/ptich.ad91d711b0b23ddf61f6.svg",
     "static/media/plus.svg": "/Afeme/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
-    "main.d3e26b4e.css.map": "/Afeme/static/css/main.d3e26b4e.css.map",
-    "main.104bd0c8.js.map": "/Afeme/static/js/main.104bd0c8.js.map"
+    "main.465849c3.css.map": "/Afeme/static/css/main.465849c3.css.map",
+    "main.951da0e9.js.map": "/Afeme/static/js/main.951da0e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3e26b4e.css",
-    "static/js/main.104bd0c8.js"
+    "static/css/main.465849c3.css",
+    "static/js/main.951da0e9.js"
   ]
 }
