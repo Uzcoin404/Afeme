@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Afeme/static/css/main.465849c3.css",
-    "main.js": "/Afeme/static/js/main.951da0e9.js",
+    "main.css": "/Afeme/static/css/main.472ff454.css",
+    "main.js": "/Afeme/static/js/main.d9aaccdb.js",
     "static/media/hero-img.png": "/Afeme/static/media/hero-img.e689f9a962940361d525.png",
     "static/media/home-hero-3.jpg": "/Afeme/static/media/home-hero-3.ed5dad227e7c5d5d1a7b.jpg",
     "static/media/home-hero-6.jpg": "/Afeme/static/media/home-hero-6.6bea6ccf3545a9bb4498.jpg",
@@ -57,13 +57,13 @@
     "static/media/categories2.svg": "/Afeme/static/media/categories2.fad02ab6a7d112710291070737119c9e.svg",
     "static/media/house.svg": "/Afeme/static/media/house.ad57cb36b9e7abee6c00cbcf6516e2bc.svg",
     "static/media/categories3.svg": "/Afeme/static/media/categories3.f12d32b89faae8dfe7dacba4945dc7de.svg",
+    "index.html": "/Afeme/index.html",
     "static/media/homeIcon.svg": "/Afeme/static/media/homeIcon.e5caa13eaab8928ffd84b299879c77b4.svg",
     "static/media/paperclip.svg": "/Afeme/static/media/paperclip.86820257a8f11a29957412b1e9e97ad7.svg",
     "static/media/smsicon.svg": "/Afeme/static/media/smsicon.ee7af7219eb25c379a7b.svg",
     "static/media/global.svg": "/Afeme/static/media/global.d13a2e6b08dbc397532e.svg",
     "static/media/location.svg": "/Afeme/static/media/location.87ced8beaef6b3317b3264f902567646.svg",
     "static/media/zvezda.svg": "/Afeme/static/media/zvezda.8900051c5cfb0c3152ddb756f0f37445.svg",
-    "index.html": "/Afeme/index.html",
     "static/media/buildings.svg": "/Afeme/static/media/buildings.4df96239f918ac5ea971.svg",
     "static/media/sms.svg": "/Afeme/static/media/sms.9c6e88c69c8ed281af3c.svg",
     "static/media/close.svg": "/Afeme/static/media/close.e4a7626ebf1924ff33e1.svg",
@@ -80,11 +80,11 @@
     "static/media/arrow-down.svg": "/Afeme/static/media/arrow-down.d687603a0bd3f6f2c7c2c7c148e015c8.svg",
     "static/media/ptich.svg": "/Afeme/static/media/ptich.ad91d711b0b23ddf61f6.svg",
     "static/media/plus.svg": "/Afeme/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
-    "main.465849c3.css.map": "/Afeme/static/css/main.465849c3.css.map",
-    "main.951da0e9.js.map": "/Afeme/static/js/main.951da0e9.js.map"
+    "main.472ff454.css.map": "/Afeme/static/css/main.472ff454.css.map",
+    "main.d9aaccdb.js.map": "/Afeme/static/js/main.d9aaccdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.465849c3.css",
-    "static/js/main.951da0e9.js"
+    "static/css/main.472ff454.css",
+    "static/js/main.d9aaccdb.js"
   ]
 }
