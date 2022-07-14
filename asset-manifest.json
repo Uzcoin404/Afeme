@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Afeme/static/css/main.472ff454.css",
-    "main.js": "/Afeme/static/js/main.d9aaccdb.js",
+    "main.css": "/Afeme/static/css/main.d7cf06c5.css",
+    "main.js": "/Afeme/static/js/main.3b51fe3a.js",
     "static/media/hero-img.png": "/Afeme/static/media/hero-img.e689f9a962940361d525.png",
     "static/media/home-hero-3.jpg": "/Afeme/static/media/home-hero-3.ed5dad227e7c5d5d1a7b.jpg",
     "static/media/home-hero-6.jpg": "/Afeme/static/media/home-hero-6.6bea6ccf3545a9bb4498.jpg",
@@ -80,11 +80,11 @@
     "static/media/arrow-down.svg": "/Afeme/static/media/arrow-down.d687603a0bd3f6f2c7c2c7c148e015c8.svg",
     "static/media/ptich.svg": "/Afeme/static/media/ptich.ad91d711b0b23ddf61f6.svg",
     "static/media/plus.svg": "/Afeme/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
-    "main.472ff454.css.map": "/Afeme/static/css/main.472ff454.css.map",
-    "main.d9aaccdb.js.map": "/Afeme/static/js/main.d9aaccdb.js.map"
+    "main.d7cf06c5.css.map": "/Afeme/static/css/main.d7cf06c5.css.map",
+    "main.3b51fe3a.js.map": "/Afeme/static/js/main.3b51fe3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.472ff454.css",
-    "static/js/main.d9aaccdb.js"
+    "static/css/main.d7cf06c5.css",
+    "static/js/main.3b51fe3a.js"
   ]
 }
