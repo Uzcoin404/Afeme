@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Afeme/static/css/main.b792df8e.css",
-    "main.js": "/Afeme/static/js/main.638319b9.js",
+    "main.js": "/Afeme/static/js/main.c8d82df5.js",
     "static/media/hero-img.png": "/Afeme/static/media/hero-img.e689f9a962940361d525.png",
     "static/media/home-hero-3.jpg": "/Afeme/static/media/home-hero-3.ed5dad227e7c5d5d1a7b.jpg",
     "static/media/home-hero-6.jpg": "/Afeme/static/media/home-hero-6.6bea6ccf3545a9bb4498.jpg",
@@ -82,10 +82,10 @@
     "static/media/ptich.svg": "/Afeme/static/media/ptich.ad91d711b0b23ddf61f6.svg",
     "static/media/plus.svg": "/Afeme/static/media/plus.5b795ec5db70c26aea753a8cc5a8b7d3.svg",
     "main.b792df8e.css.map": "/Afeme/static/css/main.b792df8e.css.map",
-    "main.638319b9.js.map": "/Afeme/static/js/main.638319b9.js.map"
+    "main.c8d82df5.js.map": "/Afeme/static/js/main.c8d82df5.js.map"
   },
   "entrypoints": [
     "static/css/main.b792df8e.css",
-    "static/js/main.638319b9.js"
+    "static/js/main.c8d82df5.js"
   ]
 }
