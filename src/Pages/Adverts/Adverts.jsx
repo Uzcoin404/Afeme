@@ -93,7 +93,7 @@ function Adverts() {
         } else if (adverts) {
             if (adverts.length > 0) {
                 return adverts.map((row) => (
-                    <Cards data={row} />
+                    <Cards data={row} fullCard={true} />
                 ));
             } else {
                 return <NoResults />
